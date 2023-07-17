@@ -1,0 +1,105 @@
+body {
+      margin: 0;
+      font-family: Times new roman, sans-serif;
+      background-color: #0285C7;
+
+    }
+      footer {
+      background-color: ##6CFAB2;
+      padding: 20px;
+    }
+
+    footer h1 {
+      margin-bottom: 10px;
+    }
+
+    footer p {
+      margin-bottom: 20px;
+    }
+
+    footer input[type="email"] {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+
+    footer button {
+      padding: 10px 20px;
+      background-color: #333;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+    }
+    header {
+      background-color: #87D9E0;
+      padding: 20px;
+    }
+
+    
+
+    .section {
+      padding: 50px;
+      color: black;
+    }
+    
+    #values {
+      background-color: #6CFAB2; 
+    }
+    
+    #mission {
+      background-color: #96BBFA; 
+    }
+    
+    #about {
+      background-color: #96BBFA; 
+    }
+    
+    #contact {
+      background-color: #6CFAB2; 
+    }
+
+    #last {
+      background-color:#333; 
+    }
+    
+    .section h1 {
+      text-align: left;
+    }
+
+      .section p {
+      max-width: 40%;
+      text-align: left;
+    }
+
+    .navbar {
+      background-color: #333;
+      overflow: hidden;
+    }
+    
+    .navbar a {
+      float: left;
+      display: block;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+
+    .image-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    }
+
+    .image-container img {
+    margin-right: 20px;
+    }
+
+    @media (min-width: 320px) {
+
+    }
+
+    @media screen and (min-width: 400px) and (max-width: 700px) {
+      ...
+      
+    }
